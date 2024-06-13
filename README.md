@@ -28,7 +28,7 @@ This project aimed to explore the relationships between employee wellness usage,
 
 - **Exploratory Data Analysis (EDA):** Utilized descriptive statistics and visualizations to understand data distributions and relationships.
 
-- **Statistical Analysis:** Performed correlation analysis, hypothesis testing (ANOVA, t-tests), regression analysis, and survival analysis to assess the relationships between wellness usage and other variables.
+- **Statistical Analysis:** Performed correlation analysis, hypothesis testing, regression analysis, and survival analysis to assess the relationships between wellness usage and other variables.
 
 - **Visualization:** Created heatmaps and color-coded correlation tables to effectively communicate findings. Exported these visualizations to Excel for client use.
 
